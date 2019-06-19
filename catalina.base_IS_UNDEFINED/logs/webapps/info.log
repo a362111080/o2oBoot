@@ -1,0 +1,24 @@
+2019-06-14 13:49:59.164 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 5640 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-14 13:49:59.185 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-14 13:50:03.679 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-14 13:50:05.547 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 6.96 seconds (JVM running for 15.923)
+2019-06-14 14:33:32.998 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 11260 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-14 14:33:33.004 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-14 14:33:39.210 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-14 14:33:40.994 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 8.82 seconds (JVM running for 11.307)
+2019-06-14 15:28:54.309 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 12468 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-14 15:28:54.314 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-14 15:28:59.615 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-14 15:29:01.213 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 7.525 seconds (JVM running for 9.93)
+2019-06-14 15:33:22.204 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 13612 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-14 15:33:22.210 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-14 15:33:27.588 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-14 15:33:29.552 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 8.057 seconds (JVM running for 11.472)
+2019-06-14 15:39:43.352 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 6376 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-14 15:39:43.358 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-14 15:39:48.044 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-14 15:39:49.583 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 6.79 seconds (JVM running for 8.955)
+2019-06-14 15:49:39.028 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 6856 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-14 15:49:39.034 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-14 15:49:44.679 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-14 15:49:46.718 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 8.378 seconds (JVM running for 10.639)

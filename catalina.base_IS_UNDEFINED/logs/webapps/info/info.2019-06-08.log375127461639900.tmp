@@ -1,0 +1,58 @@
+2019-06-09 00:00:00.017 [schedulerFactory_Worker-1] INFO  c.i.o2o.service.impl.ProductSellDailServiceImpl-Quartz跑起来了
+2019-06-08 23:59:54.190 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 13240 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 23:59:54.195 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-08 23:59:57.980 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 23:59:59.221 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 5.672 seconds (JVM running for 7.321)
+2019-06-09 00:00:00.009 [schedulerFactory_Worker-1] INFO  c.i.o2o.service.impl.ProductSellDailServiceImpl-Quartz跑起来了
+2019-06-08 20:34:40.666 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 2600 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 20:34:40.676 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-08 20:34:45.449 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 20:34:47.275 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 7.274 seconds (JVM running for 9.273)
+2019-06-08 21:59:54.337 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 14844 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 21:59:54.347 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:00:02.697 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:00:08.045 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 14.471 seconds (JVM running for 17.35)
+2019-06-08 22:02:51.320 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 3372 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:02:51.322 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:02:58.893 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:03:04.129 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 13.942 seconds (JVM running for 16.41)
+2019-06-08 22:04:24.201 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 7852 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:04:24.202 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:04:30.983 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:04:35.938 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 12.59 seconds (JVM running for 15.79)
+2019-06-08 22:10:14.595 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 12076 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:10:14.597 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:10:20.895 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:10:25.465 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 11.985 seconds (JVM running for 14.343)
+2019-06-08 22:12:48.830 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 8000 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:12:48.835 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:12:54.824 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:12:59.954 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 12.748 seconds (JVM running for 15.556)
+2019-06-08 22:22:09.413 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 12980 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:22:09.415 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:22:16.155 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:22:21.196 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 13.119 seconds (JVM running for 15.635)
+2019-06-08 22:25:10.436 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 13952 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:25:10.439 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:25:16.089 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:25:21.402 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 12.142 seconds (JVM running for 14.587)
+2019-06-08 22:29:50.049 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 11416 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:29:50.051 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:29:56.023 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:30:01.099 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 12.066 seconds (JVM running for 14.512)
+2019-06-08 22:30:36.546 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 2936 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:30:36.548 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:30:42.759 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:30:47.553 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 12.706 seconds (JVM running for 15.041)
+2019-06-08 22:31:21.232 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Starting ProductSellDailyDaoTest on DESKTOP-PCBGBR0 with PID 4084 (started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 22:31:21.234 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-No active profile set, falling back to default profiles: default
+2019-06-08 22:31:27.903 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 22:31:34.725 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest-Started ProductSellDailyDaoTest in 14.274 seconds (JVM running for 16.65)
+2019-06-08 23:20:38.404 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 7904 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 23:20:38.416 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-08 23:20:46.839 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 23:20:53.194 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 17.338 seconds (JVM running for 22.697)
+2019-06-08 23:55:26.746 [main] INFO  com.imooc.o2o.O2oApplication-Starting O2oApplication on DESKTOP-PCBGBR0 with PID 2368 (D:\yzj\springbootProject\o2o\target\classes started by yzj in D:\yzj\springbootProject\o2o)
+2019-06-08 23:55:26.754 [main] INFO  com.imooc.o2o.O2oApplication-No active profile set, falling back to default profiles: default
+2019-06-08 23:55:32.270 [main] INFO  c.imooc.o2o.config.dao.SessionFactoryConfiguration-==============================:classpath*:/mapper/**.xml
+2019-06-08 23:55:33.962 [main] INFO  com.imooc.o2o.O2oApplication-Started O2oApplication in 8.231 seconds (JVM running for 10.661)
